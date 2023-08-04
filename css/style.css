@@ -2019,7 +2019,7 @@ progress {
   height: 1.5em;
 }
 .form-control::placeholder {
-  color: #6c757d;
+  color: #f5f4f8;
   opacity: 1;
 }
 .form-control:disabled {
@@ -10903,7 +10903,7 @@ textarea.form-control-lg {
 }
 
 .btn-size-2 {
-  width: 16rem;
+  width: 12rem;
 }
 
 .footer-size {

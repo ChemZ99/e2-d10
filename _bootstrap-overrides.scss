@@ -6,9 +6,9 @@
 
 // 2. Include any default variable overrides here
 $secondary: #f5f4f8;
-
-// 3. Include remainder of required Bootstrap stylesheets
-@import "./scss/variables";
+$input-placeholder-color: #f5f4f8;
+$white: #e9ecef // 3. Include remainder of required Bootstrap stylesheets
+  @import "./scss/variables";
 
 // 4. Include any default map overrides here
 
